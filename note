@@ -1,0 +1,7 @@
+1.To use this music player you need to locate the music files from your directory by clicking on 'OPEN FOLDER' then select music files which have an '.mp3' file extension
+2.You can use functions like play,pause,stop,resume,play next song,previous song and lyrics of current song
+3.To get the lyrics of current song playing you need to have an '.lrc' file extension of the song you have in your folder
+ eg:- 'abc.mp3' .... (I have a song named abc)
+       .... to get lyrics of above song I need to have an 'abc.lrc' file in same directory as my 'abc.mp3'
+4.usually you can download Lrc file along with your music file, But even if you dont have lrc, visit this site to download lrc file and then save it with your '<music>.lrc'
+ site:- https://www.megalobiz.com/lrc/maker/download-music-lyrics-lrc-generated-files
